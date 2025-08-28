@@ -12,7 +12,14 @@
         "src": "img/pombo.png",
         "sizes": "512x512",
         "type": "image/png"
-      } 
+      },
+      {
+
+    "src":"img/cidade.avif",
+    "sizes":"512x512",
+    "type":"image/png"
+}
+      
     ],
 
     "language": "pt-br",
