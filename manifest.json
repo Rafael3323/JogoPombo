@@ -10,16 +10,9 @@
     "icons": [
       {
         "src": "img/pombo.png",
-        "sizes": "50x50",
+        "sizes": "512x512",
         "type": "image/png"
-      },
-      {
-
-    "src":"img/cidade.avif",
-    "sizes":"512x512",
-    "type":"image/png"
-}
-      
+      } 
     ],
 
     "language": "pt-br",
