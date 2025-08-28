@@ -10,7 +10,7 @@
     "icons": [
       {
         "src": "img/pombo.png",
-        "sizes": "512x512",
+        "sizes": "50x50",
         "type": "image/png"
       },
       {
