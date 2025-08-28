@@ -1,35 +1,30 @@
 {
-    "name": "Pegue o Pombo",
-    "short_name": "Pombo",
-    "description": "App feito durante a aula de TDS",
-    "start_url": "https://rafael3323.github.io/JogoPombo/",
-    "background_color": "#2690b1",
-    "theme_color": "#ddd",
-    "scope": "https://rafael3323.github.io/JogoPombo/",
-    "display": "standalone",
-    "icons": [
-      {
-        "src": "img/pombo.png",
-        "sizes": "50x50",
-        "type": "image/png"
-      },
-      {
-
-    "src":"img/cidade.avif",
-    "sizes":"512x512",
-    "type":"image/png"
-}
-      
-    ],
-
-    "language": "pt-br",
-    "dir": "auto",
-    "categories": [
-      "game"
-    ],
-    "id": "pwa_teste",
-    "orientation": [
-      "any"
-    ]
-  
+  "name": "Pegue o Pombo",
+  "short_name": "Pombo",
+  "description": "App feito durante a aula de TDS",
+  "start_url": "https://rafael3323.github.io/JogoPombo/",
+  "background_color": "#2690b1",
+  "theme_color": "#ddd",
+  "scope": "https://rafael3323.github.io/JogoPombo/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/pombo.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "img/cidade.avif",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "language": "pt-br",
+  "dir": "auto",
+  "categories": [
+    "game"
+  ],
+  "id": "pwa_teste",
+  "orientation": "portrait",
+  "prefer_related_applications": true
 }
